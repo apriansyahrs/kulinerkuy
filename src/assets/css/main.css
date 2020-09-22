@@ -1,0 +1,11 @@
+#app {
+    font-family: 'Poppins', sans-serif;
+}
+
+.router-link-exact-active {
+    font-weight: bold;
+}
+
+.card-product {
+    border-radius: 15px;
+}
